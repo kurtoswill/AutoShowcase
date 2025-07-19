@@ -1,0 +1,5 @@
+BuildRepository.class
+Build.class
+UserRepository.class
+com\autoshowcase\AutoShowcaseApplication.class
+User.class
